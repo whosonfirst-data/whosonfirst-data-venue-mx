@@ -1,0 +1,72 @@
+{
+  "id": 118489453,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-89.597778,19.009859,-89.597778,19.009859",
+    "geom:latitude":19.009859,
+    "geom:longitude":-89.597778,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:categories":[],
+    "sg:city":"Sillerup",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"24696",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "118489453",
+        85633293,
+        85686707
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BLVvOVnJLNM65PK9rFE6h_19.009859_-89.597778@1306268965"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"870893ba1589f94c11b0becc0f92f7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686707,
+            "venue_id":"118489453"
+        }
+    ],
+    "wof:id":118489453,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Trainingspot Gmbh.",
+    "wof:parent_id":"85686707",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.597778,
+    19.009859,
+    -89.597778,
+    19.009859
+],
+  "geometry": {"coordinates":[-89.59777800000001,19.009859],"type":"Point"}
+}

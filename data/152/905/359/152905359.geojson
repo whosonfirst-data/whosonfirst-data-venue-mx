@@ -1,0 +1,73 @@
+{
+  "id": 152905359,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-100.06675,25.99711,-100.06675,25.99711",
+    "geom:latitude":25.99711,
+    "geom:longitude":-100.06675,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"street",
+    "sg:categories":[],
+    "sg:city":"town",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65748",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152905359",
+        85633293,
+        85686681
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_7272aiTtVy96p5Cjo0hpJE_25.997110_-100.066750@1306268892"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"6ddc9db3ad8621d4dcc00ba56d161486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686681,
+            "venue_id":"152905359"
+        }
+    ],
+    "wof:id":152905359,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Prestigious Titles Superstore",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.06675,
+    25.99711,
+    -100.06675,
+    25.99711
+],
+  "geometry": {"coordinates":[-100.06675,25.99711],"type":"Point"}
+}

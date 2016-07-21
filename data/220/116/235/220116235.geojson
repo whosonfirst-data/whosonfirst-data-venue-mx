@@ -1,0 +1,95 @@
+{
+  "id": 220116235,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-98.203552,18.20665,-98.203552,18.20665",
+    "geom:latitude":18.20665,
+    "geom:longitude":-98.203552,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"748 Pollen St ",
+    "sg:categories":[
+        "sg/retail_goods/food_and_beverages",
+        "retail_goods/food_and_beverages/candy"
+    ],
+    "sg:city":"Thames",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+64 7-868 9704",
+    "sg:province":"Waikato",
+    "sg:tags":[
+        "confectioner",
+        "drink",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "220116235",
+        85633293,
+        85686657
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_4snJS2Ece8ZZQR5kaBSRmk_18.206650_-98.203552@1306270048"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"ec1c6ac162571ae04cf22e87e08a6c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85686657,
+            "venue_id":"220116235"
+        }
+    ],
+    "wof:id":220116235,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Chocolate Shoppe (The)",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "drink",
+        "-"
+    ]
+},
+  "bbox": [
+    -98.203552,
+    18.20665,
+    -98.203552,
+    18.20665
+],
+  "geometry": {"coordinates":[-98.203552,18.20665],"type":"Point"}
+}

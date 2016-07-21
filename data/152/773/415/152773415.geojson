@@ -1,0 +1,79 @@
+{
+  "id": 152773415,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-87.075386,20.62866,-87.075386,20.62866",
+    "geom:latitude":20.62866,
+    "geom:longitude":-87.075386,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Av. 45 con Calle 3 Sur",
+    "sg:categories":[],
+    "sg:city":"Playa del Carmen",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 5298/769637",
+    "sg:postcode":"77710",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152773415",
+        102191575,
+        85633293,
+        85882557
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zza23J817JuDfZPnK7NFB_20.628660_-87.075386@1306268888"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"52a3ee7add7e6732101fcacc4653749e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85882557,
+            "region_id":-1,
+            "venue_id":"152773415"
+        }
+    ],
+    "wof:id":152773415,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Costa Rica Land Zu Verkaufen",
+    "wof:parent_id":"85882557",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.075386,
+    20.62866,
+    -87.075386,
+    20.62866
+],
+  "geometry": {"coordinates":[-87.07538599999999,20.62866],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 152768985,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-104.666702,24.0333,-104.666702,24.0333",
+    "geom:latitude":24.0333,
+    "geom:longitude":-104.666702,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"fdfdfd",
+    "sg:categories":[],
+    "sg:city":"sdsdsdsd",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 2323/2323",
+    "sg:postcode":"34343",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152768985",
+        85884221,
+        85633293,
+        101994335,
+        102075159,
+        85686573
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VxC3kuK4fsGzHHXLnrH5X_24.033300_-104.666702@1306268887"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"ea135e46c3d68e705d1604207770e20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102075159,
+            "locality_id":101994335,
+            "neighbourhood_id":85884221,
+            "region_id":85686573,
+            "venue_id":"152768985"
+        }
+    ],
+    "wof:id":152768985,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Cherry1499",
+    "wof:parent_id":"85884221",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.666702,
+    24.0333,
+    -104.666702,
+    24.0333
+],
+  "geometry": {"coordinates":[-104.666702,24.0333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 152763083,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-93.582237,18.005791,-93.582237,18.005791",
+    "geom:latitude":18.005791,
+    "geom:longitude":-93.582237,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"im wald",
+    "sg:categories":[],
+    "sg:city":"waldhausen",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 8564/556441",
+    "sg:postcode":"86475",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101994855,
+        "152763083",
+        85633293,
+        85686617,
+        102075779
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ibqq5S2W8aM9qc4EU6Qg4_18.005791_-93.582237@1306268887"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"4170268055e4a611ed99c5b2fb25313f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102075779,
+            "locality_id":101994855,
+            "region_id":85686617,
+            "venue_id":"152763083"
+        }
+    ],
+    "wof:id":152763083,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Burn-house",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.582237,
+    18.005791,
+    -93.582237,
+    18.005791
+],
+  "geometry": {"coordinates":[-93.58223700000001,18.005791],"type":"Point"}
+}

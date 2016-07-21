@@ -1,0 +1,81 @@
+{
+  "id": 319977637,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-98.045937,19.04077,-98.045937,19.04077",
+    "geom:latitude":19.04077,
+    "geom:longitude":-98.045937,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Arthur-Hehl-Str. 1",
+    "sg:categories":[],
+    "sg:city":"Lo\u00dfburg",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 4974/46330",
+    "sg:postcode":"72289",
+    "sg:province":"Baden-W\u00fcrttemberg",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "319977637",
+        85686657,
+        85633293,
+        101999273,
+        102078025
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fXr4X3JJhYwxvG3auzoNj_19.040770_-98.045937@1306269139"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"c262cda7fe1b34f53cdf54b9c253bac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633293,
+            "county_id":102078025,
+            "locality_id":101999273,
+            "neighbourhood_id":-1,
+            "region_id":85686657,
+            "venue_id":"319977637"
+        }
+    ],
+    "wof:id":319977637,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Arburg Gmbh & Co. Kg",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.045937,
+    19.04077,
+    -98.045937,
+    19.04077
+],
+  "geometry": {"coordinates":[-98.045937,19.04077],"type":"Point"}
+}

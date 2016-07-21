@@ -1,0 +1,74 @@
+{
+  "id": 135279185,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-113.420258,27.20269,-113.420258,27.20269",
+    "geom:latitude":27.20269,
+    "geom:longitude":-113.420258,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Postfach 185",
+    "sg:categories":[],
+    "sg:city":"Kirchdorf",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"23998",
+    "sg:province":"Bayern",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "135279185",
+        85633293,
+        85686555
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4haQKXbyId1B2zspsVm2_27.202690_-113.420258@1306268842"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"0b0bc6f45ff44e5eb9f5bdd7078d6fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686555,
+            "venue_id":"135279185"
+        }
+    ],
+    "wof:id":135279185,
+    "wof:lastmodified":1469133141,
+    "wof:name":"J. Groth",
+    "wof:parent_id":"85686555",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.420258,
+    27.20269,
+    -113.420258,
+    27.20269
+],
+  "geometry": {"coordinates":[-113.420258,27.20269],"type":"Point"}
+}

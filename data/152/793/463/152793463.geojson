@@ -1,0 +1,81 @@
+{
+  "id": 152793463,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-99.099998,19.35,-99.099998,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":-99.099998,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Frankenstrasse 15",
+    "sg:categories":[],
+    "sg:city":"K\u00fcps",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 9264/915747",
+    "sg:postcode":"09264",
+    "sg:province":"Bayern",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152793463",
+        85884005,
+        85633293,
+        101991181,
+        102073759,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FncnzjUwRYj90yswvJ136_19.350000_-99.099998@1306268888"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"5001ce2c48840f5b85781feb9030d2c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102073759,
+            "locality_id":101991181,
+            "neighbourhood_id":85884005,
+            "region_id":85686515,
+            "venue_id":"152793463"
+        }
+    ],
+    "wof:id":152793463,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Dominik Janisch\u00b4s Homepage",
+    "wof:parent_id":"85884005",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.099998,
+    19.35,
+    -99.099998,
+    19.35
+],
+  "geometry": {"coordinates":[-99.099998,19.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 136093361,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-96.165367,17.381901,-96.165367,17.381901",
+    "geom:latitude":17.381901,
+    "geom:longitude":-96.165367,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Zimmerweg",
+    "sg:categories":[],
+    "sg:city":"L\u00f6dderrath",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 6889/856593",
+    "sg:postcode":"68897",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136093361",
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zw7O64YrVg7AIolmpBA5G_17.381901_-96.165367@1306268891"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"d77b96232d4ad89237aa2cd43222096e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686623,
+            "venue_id":"136093361"
+        }
+    ],
+    "wof:id":136093361,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Kreditkarte Ohne Bonit\u00e4tspr\u00fcfung",
+    "wof:parent_id":"85686623",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.165367,
+    17.381901,
+    -96.165367,
+    17.381901
+],
+  "geometry": {"coordinates":[-96.165367,17.381901],"type":"Point"}
+}

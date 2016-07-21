@@ -1,0 +1,78 @@
+{
+  "id": 186284395,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-97.706467,24.363779,-97.706467,24.363779",
+    "geom:latitude":24.363779,
+    "geom:longitude":-97.706467,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Postfach 1105",
+    "sg:categories":[],
+    "sg:city":"Biessenhofen",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 8342/2515",
+    "sg:postcode":"87638",
+    "sg:province":"Bayern",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "186284395",
+        85633293,
+        85686695
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CZPDDeMI7aD3MCtskI5mK_24.363779_-97.706467@1306269088"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"51b805dd5a25aa38d55d29050c84db39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85686695,
+            "venue_id":"186284395"
+        }
+    ],
+    "wof:id":186284395,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Josef Egger",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.706467,
+    24.363779,
+    -97.706467,
+    24.363779
+],
+  "geometry": {"coordinates":[-97.706467,24.363779],"type":"Point"}
+}

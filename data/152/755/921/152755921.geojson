@@ -1,0 +1,74 @@
+{
+  "id": 152755921,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-98.89257,20.29401,-98.89257,20.29401",
+    "geom:latitude":20.29401,
+    "geom:longitude":-98.89257,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Solinger Str. 6",
+    "sg:categories":[],
+    "sg:city":"Remscheid",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"42589",
+    "sg:province":"Nordrhein-Westfalen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152755921",
+        85633293,
+        85686665
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HjBinkA6yJahPNukkGIh7_20.294010_-98.892570@1306268887"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"70180c7a2b5498efd8dc48c8b6b39c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686665,
+            "venue_id":"152755921"
+        }
+    ],
+    "wof:id":152755921,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Bergische-seiten",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.89257,
+    20.29401,
+    -98.89257,
+    20.29401
+],
+  "geometry": {"coordinates":[-98.89257000000001,20.29401],"type":"Point"}
+}

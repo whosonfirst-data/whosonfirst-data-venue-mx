@@ -1,0 +1,97 @@
+{
+  "id": 169571597,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-99.175346,19.305832,-99.175346,19.305832",
+    "geom:latitude":19.305832,
+    "geom:longitude":-99.175346,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Sct. J\u00f8rgens Park 66",
+    "sg:categories":[
+        "sg/services/banks_and_credit_unions",
+        "services/banks_and_credit_unions/bank"
+    ],
+    "sg:city":"N\u00e6stved",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 75 03 75",
+    "sg:postcode":"4700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "169571597",
+        85686515,
+        102191575,
+        85633293,
+        101991175,
+        102073753,
+        85884329
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hJyS8ilvgjrVC6XBz0sjN_19.305832_-99.175346@1306269358"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"844a5d01035bab1d4715b208d2341757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073753,
+            "locality_id":101991175,
+            "neighbourhood_id":85884329,
+            "region_id":85686515,
+            "venue_id":"169571597"
+        }
+    ],
+    "wof:id":169571597,
+    "wof:lastmodified":1469133141,
+    "wof:name":"DiskontoBanken",
+    "wof:parent_id":"85884329",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    -99.175346,
+    19.305832,
+    -99.175346,
+    19.305832
+],
+  "geometry": {"coordinates":[-99.175346,19.305832],"type":"Point"}
+}

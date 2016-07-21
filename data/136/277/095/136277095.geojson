@@ -1,0 +1,89 @@
+{
+  "id": 136277095,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-107.376869,25.60569,-107.376869,25.60569",
+    "geom:latitude":25.60569,
+    "geom:longitude":-107.376869,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":" , 80590 Marlers",
+    "sg:categories":[
+        "sg/services/banks_and_credit_unions",
+        "services/banks_and_credit_unions/financial_services"
+    ],
+    "sg:city":"Marlers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+33 3 22 38 07 20",
+    "sg:postcode":"80590",
+    "sg:province":"Picardie",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136277095",
+        85633293,
+        85686535
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dwdBTLzkTTLuEUnhdb49S_25.605690_-107.376869@1306269698"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"498cdb0076fa50246e9368efb1f46f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686535,
+            "venue_id":"136277095"
+        }
+    ],
+    "wof:id":136277095,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Etablissements Andre Senoble",
+    "wof:parent_id":"85686535",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.376869,
+    25.60569,
+    -107.376869,
+    25.60569
+],
+  "geometry": {"coordinates":[-107.376869,25.60569],"type":"Point"}
+}

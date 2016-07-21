@@ -1,0 +1,78 @@
+{
+  "id": 320530465,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-99.595428,19.077789,-99.595428,19.077789",
+    "geom:latitude":19.077789,
+    "geom:longitude":-99.595428,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Postfach 1120",
+    "sg:categories":[],
+    "sg:city":"Niederzier",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52380",
+    "sg:province":"Nordrhein-Westfalen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "320530465",
+        85633293,
+        85686527
+    ],
+    "wof:brand_id":"420575115",
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oUlL4AICS8t6xoJbWLwXu_19.077789_-99.595428@1306269144"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"f273dd9476338670318da55fb57aa6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85686527,
+            "venue_id":"320530465"
+        }
+    ],
+    "wof:id":320530465,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Mehrzweckhalle",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.595428,
+    19.077789,
+    -99.595428,
+    19.077789
+],
+  "geometry": {"coordinates":[-99.595428,19.077789],"type":"Point"}
+}

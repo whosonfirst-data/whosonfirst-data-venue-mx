@@ -1,0 +1,75 @@
+{
+  "id": 136099567,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-103.463028,21.31949,-103.463028,21.31949",
+    "geom:latitude":21.31949,
+    "geom:longitude":-103.463028,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Am Schunkenhofe 11",
+    "sg:categories":[],
+    "sg:city":"Wutha-Farnroda",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 700 9997 6723",
+    "sg:postcode":"99818",
+    "sg:province":"Th\u00fcringen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136099567",
+        85633293,
+        85686567
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ZpJgtAuz9ZgvddagkImi_21.319490_-103.463028@1306268891"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"d4bf8c62ce99139ff38193c999b3b8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686567,
+            "venue_id":"136099567"
+        }
+    ],
+    "wof:id":136099567,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Onlie - Shop, Wassers\u00e4ulen, Acrylprodukte",
+    "wof:parent_id":"85686567",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.463028,
+    21.31949,
+    -103.463028,
+    21.31949
+],
+  "geometry": {"coordinates":[-103.46302799999999,21.31949],"type":"Point"}
+}

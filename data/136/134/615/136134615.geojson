@@ -1,0 +1,74 @@
+{
+  "id": 136134615,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-100.142487,26.57646,-100.142487,26.57646",
+    "geom:latitude":26.57646,
+    "geom:longitude":-100.142487,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Holzweg 69",
+    "sg:categories":[],
+    "sg:city":"Tittenhausen",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 9564/45464",
+    "sg:postcode":"65214",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136134615",
+        85633293,
+        85686681
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LZUP3knLen4hbEykckPSn_26.576460_-100.142487@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"839ddd8c72a5882e586ffcbdf6191101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686681,
+            "venue_id":"136134615"
+        }
+    ],
+    "wof:id":136134615,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Teen Shark",
+    "wof:parent_id":"85686681",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.142487,
+    26.57646,
+    -100.142487,
+    26.57646
+],
+  "geometry": {"coordinates":[-100.142487,26.57646],"type":"Point"}
+}

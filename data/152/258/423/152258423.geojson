@@ -1,0 +1,74 @@
+{
+  "id": 152258423,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-97.633301,21.0667,-97.633301,21.0667",
+    "geom:latitude":21.0667,
+    "geom:longitude":-97.633301,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"188, Av. du G\u00e9n\u00e9ral de Gaulle, 92872 Clamart C\u00e9dex",
+    "sg:categories":[],
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+33 1 46 30 56 56",
+    "sg:province":"Poitou-Charentes",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152258423",
+        85633293,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rEWtk6ucuFscP6yPm7lTR_21.066700_-97.633301@1306269737"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"fc49fb3d4ba60000d26b691e559e3d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686671,
+            "venue_id":"152258423"
+        }
+    ],
+    "wof:id":152258423,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Air Climat",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.633301,
+    21.0667,
+    -97.633301,
+    21.0667
+],
+  "geometry": {"coordinates":[-97.633301,21.0667],"type":"Point"}
+}

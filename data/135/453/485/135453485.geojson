@@ -1,0 +1,79 @@
+{
+  "id": 135453485,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-101.199478,20.138218,-101.199478,20.138218",
+    "geom:latitude":20.138218,
+    "geom:longitude":-101.199478,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"M.-Schmeling-Platz 9",
+    "sg:categories":[],
+    "sg:city":"Benneckenstein",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 39457/2208",
+    "sg:postcode":"38887",
+    "sg:province":"Sachsen-Anhalt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101996683,
+        "135453485",
+        85633293,
+        85686629,
+        102077355
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tfN596yiM1e2mQ7UjAhwV_20.138218_-101.199478@1306268853"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"707904b7932575af18a989696d03b60b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102077355,
+            "locality_id":101996683,
+            "region_id":85686629,
+            "venue_id":"135453485"
+        }
+    ],
+    "wof:id":135453485,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Volksbank Braunlage Eg",
+    "wof:parent_id":"101996683",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.199478,
+    20.138218,
+    -101.199478,
+    20.138218
+],
+  "geometry": {"coordinates":[-101.199478,20.138218],"type":"Point"}
+}

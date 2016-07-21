@@ -1,0 +1,78 @@
+{
+  "id": 136158205,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-100.357124,19.435352,-100.357124,19.435352",
+    "geom:latitude":19.435352,
+    "geom:longitude":-100.357124,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Benedicto Lopez Sur 13",
+    "sg:categories":[],
+    "sg:city":"Zitacuaro",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 5271/538696",
+    "sg:postcode":"61500",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101997197,
+        "136158205",
+        85633293,
+        85686595,
+        102074961
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WUSgee8SI7iXvCYJ34i2U_19.435352_-100.357124@1306268895"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"ad93f2111d4fca3a2935960ba0879c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102074961,
+            "locality_id":101997197,
+            "region_id":85686595,
+            "venue_id":"136158205"
+        }
+    ],
+    "wof:id":136158205,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Zitacuaro En La Red",
+    "wof:parent_id":"101997197",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.357124,
+    19.435352,
+    -100.357124,
+    19.435352
+],
+  "geometry": {"coordinates":[-100.357124,19.435352],"type":"Point"}
+}

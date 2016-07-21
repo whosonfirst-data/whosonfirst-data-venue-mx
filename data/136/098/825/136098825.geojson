@@ -1,0 +1,74 @@
+{
+  "id": 136098825,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-100.021538,25.761641,-100.021538,25.761641",
+    "geom:latitude":25.761641,
+    "geom:longitude":-100.021538,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Counterweg",
+    "sg:categories":[],
+    "sg:city":"CS1.1ingen",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 30",
+    "sg:postcode":"66666",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136098825",
+        85633293,
+        85686681
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XBYkoJowA6CSkcqQ3qitV_25.761641_-100.021538@1306268891"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"1cf1307407f0b413bb1a89dbd77af26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686681,
+            "venue_id":"136098825"
+        }
+    ],
+    "wof:id":136098825,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Offizielle Down-runner-clan Homepage",
+    "wof:parent_id":"85686681",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.021538,
+    25.761641,
+    -100.021538,
+    25.761641
+],
+  "geometry": {"coordinates":[-100.02153800000001,25.761641],"type":"Point"}
+}

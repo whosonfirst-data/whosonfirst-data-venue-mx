@@ -1,0 +1,73 @@
+{
+  "id": 136125323,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-102.433197,23.516069,-102.433197,23.516069",
+    "geom:latitude":23.516069,
+    "geom:longitude":-102.433197,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Lebstr. 19",
+    "sg:categories":[],
+    "sg:city":"Brumthal",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98475",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136125323",
+        85633293,
+        85686567
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XNjs3GYfzolzUAYqubN96_23.516069_-102.433197@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"898a614c388be50607c56317fff20aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686567,
+            "venue_id":"136125323"
+        }
+    ],
+    "wof:id":136125323,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Slips, H\u00f6schen, W\u00e4sche, Getragene Unterw\u00e4sche",
+    "wof:parent_id":"85686567",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.433197,
+    23.516069,
+    -102.433197,
+    23.516069
+],
+  "geometry": {"coordinates":[-102.43319700000001,23.516069],"type":"Point"}
+}

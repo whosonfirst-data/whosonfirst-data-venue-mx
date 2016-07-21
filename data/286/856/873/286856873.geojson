@@ -1,0 +1,78 @@
+{
+  "id": 286856873,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-102.647873,20.482059,-102.647873,20.482059",
+    "geom:latitude":20.482059,
+    "geom:longitude":-102.647873,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Bl\u00fccherstr. 24c",
+    "sg:categories":[],
+    "sg:city":"Moers",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 2841/57745",
+    "sg:postcode":"47773",
+    "sg:province":"Nordrhein-Westfalen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "286856873",
+        85633293,
+        85686603
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_54RnFOGlpbyizr3TA6ngJd_20.482059_-102.647873@1306268941"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"26cb1f31bc7d51415ec490d70854212c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85686603,
+            "venue_id":"286856873"
+        }
+    ],
+    "wof:id":286856873,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Haarmoden Strauss",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -102.647873,
+    20.482059,
+    -102.647873,
+    20.482059
+],
+  "geometry": {"coordinates":[-102.647873,20.482059],"type":"Point"}
+}

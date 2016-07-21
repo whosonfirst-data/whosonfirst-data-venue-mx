@@ -1,0 +1,78 @@
+{
+  "id": 152961811,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-100.729523,20.035667,-100.729523,20.035667",
+    "geom:latitude":20.035667,
+    "geom:longitude":-100.729523,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"garanana 39",
+    "sg:categories":[],
+    "sg:city":"san miguel",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 9221/67247",
+    "sg:postcode":"38620",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101993053,
+        "152961811",
+        85633293,
+        85686629,
+        102077309
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_4umhfeW0K1mtKuQUEzXtp1_20.035667_-100.729523@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"baf3f25f7d5834a0ea6ebb4e0ed7ff14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102077309,
+            "locality_id":101993053,
+            "region_id":85686629,
+            "venue_id":"152961811"
+        }
+    ],
+    "wof:id":152961811,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Teneriffa,urlaub Abseits Vom Massentourismus",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.729523,
+    20.035667,
+    -100.729523,
+    20.035667
+],
+  "geometry": {"coordinates":[-100.729523,20.035667],"type":"Point"}
+}

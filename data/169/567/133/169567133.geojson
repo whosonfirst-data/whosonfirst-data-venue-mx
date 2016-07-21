@@ -1,0 +1,98 @@
+{
+  "id": 169567133,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-99.102623,19.337889,-99.102623,19.337889",
+    "geom:latitude":19.337889,
+    "geom:longitude":-99.102623,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Sct. Olai Plads 2",
+    "sg:categories":[
+        "sg/services/banks_and_credit_unions",
+        "services/banks_and_credit_unions/bank"
+    ],
+    "sg:city":"Hj\u00f8rring",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 92 92 77",
+    "sg:postcode":"9800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.al-bank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "169567133",
+        85686515,
+        102191575,
+        85633293,
+        101991181,
+        102073759,
+        85884005
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z3tU1qe0eTjY0RbvWleO8_19.337889_-99.102623@1306269358"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"355db97398e7e3faf116547fe1a2ceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073759,
+            "locality_id":101991181,
+            "neighbourhood_id":85884005,
+            "region_id":85686515,
+            "venue_id":"169567133"
+        }
+    ],
+    "wof:id":169567133,
+    "wof:lastmodified":1469133141,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":"85884005",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    -99.102623,
+    19.337889,
+    -99.102623,
+    19.337889
+],
+  "geometry": {"coordinates":[-99.10262299999999,19.337889],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 136147479,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-97.842628,22.243231,-97.842628,22.243231",
+    "geom:latitude":22.243231,
+    "geom:longitude":-97.842628,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"M\u00fcnchnerstr.",
+    "sg:categories":[],
+    "sg:city":"Weilersheim",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 89/2513852",
+    "sg:postcode":"89235",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "136147479",
+        85882503,
+        85633293,
+        102001085,
+        102078947,
+        85686695
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hoxTPAs7LKTOYhBXA6qZl_22.243231_-97.842628@1306268894"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"24ebfd71d1c972f37c80c41c0b21010c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102078947,
+            "locality_id":102001085,
+            "neighbourhood_id":85882503,
+            "region_id":85686695,
+            "venue_id":"136147479"
+        }
+    ],
+    "wof:id":136147479,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Wellness-hotel, Wellness-hotel, Judo, Judo",
+    "wof:parent_id":"85882503",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.842628,
+    22.243231,
+    -97.842628,
+    22.243231
+],
+  "geometry": {"coordinates":[-97.842628,22.243231],"type":"Point"}
+}

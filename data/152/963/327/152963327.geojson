@@ -1,0 +1,74 @@
+{
+  "id": 152963327,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-98.871902,19.050989,-98.871902,19.050989",
+    "geom:latitude":19.050989,
+    "geom:longitude":-98.871902,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"mdljfkdflstrasse23",
+    "sg:categories":[],
+    "sg:city":"ddfkfjdfj",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 190123456",
+    "sg:postcode":"56844",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152963327",
+        85633293,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LxXljcATTX1dIekIqzxvw_19.050989_-98.871902@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"6b916f38d159f0561ab073b23769ca3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686527,
+            "venue_id":"152963327"
+        }
+    ],
+    "wof:id":152963327,
+    "wof:lastmodified":1469133141,
+    "wof:name":"The Biggest Girls",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.871902,
+    19.050989,
+    -98.871902,
+    19.050989
+],
+  "geometry": {"coordinates":[-98.87190200000001,19.050989],"type":"Point"}
+}

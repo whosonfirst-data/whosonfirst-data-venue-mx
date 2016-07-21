@@ -1,0 +1,73 @@
+{
+  "id": 152952175,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-97.642601,17.267839,-97.642601,17.267839",
+    "geom:latitude":17.267839,
+    "geom:longitude":-97.642601,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:address":"Industriegebiet",
+    "sg:categories":[],
+    "sg:city":"Talhaus",
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"69858",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "152952175",
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mflobRVXj5eWUGLeMOP2g_17.267839_-97.642601@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"4e6b7ad16815b0407fdfebaba12c1de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "region_id":85686623,
+            "venue_id":"152952175"
+        }
+    ],
+    "wof:id":152952175,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Stielmoebel",
+    "wof:parent_id":"-1",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.642601,
+    17.267839,
+    -97.642601,
+    17.267839
+],
+  "geometry": {"coordinates":[-97.642601,17.267839],"type":"Point"}
+}

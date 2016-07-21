@@ -1,0 +1,76 @@
+{
+  "id": 102604731,
+  "type": "Feature",
+  "properties": {
+    "counts:concordances_total":"1",
+    "counts:languages_official":"0",
+    "counts:languages_spoken":"0",
+    "counts:languages_total":"0",
+    "counts:names_colloquial":"0",
+    "counts:names_languages":"0",
+    "counts:names_prefered":"0",
+    "counts:names_total":"0",
+    "counts:names_variant":"0",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "etdf:deprecated":"2016-07-21",
+    "geom:area":0.0,
+    "geom:bbox":"-99.023651,19.191,-99.023651,19.191",
+    "geom:latitude":19.191,
+    "geom:longitude":-99.023651,
+    "geom:type":"Point",
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
+    "sg:categories":[],
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+49 111211",
+    "sg:postcode":"12354",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101991185,
+        "102604731",
+        85633293,
+        85686515,
+        102073763
+    ],
+    "wof:breaches":[],
+    "wof:categories":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aiNoMlfjvIdYKZnQvHU0V_19.191000_-99.023651@1306268893"
+    },
+    "wof:concordances_sources":[
+        "sg:id"
+    ],
+    "wof:country":"MX",
+    "wof:geomhash":"b3c48f97bbc3eca07f99f5f156384aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633293,
+            "county_id":102073763,
+            "locality_id":101991185,
+            "region_id":85686515,
+            "venue_id":"102604731"
+        }
+    ],
+    "wof:id":102604731,
+    "wof:lastmodified":1469133140,
+    "wof:name":"Sex-vermittlung.de",
+    "wof:parent_id":"101991185",
+    "wof:placetype":"venue",
+    "wof:placetype_id":102312325,
+    "wof:placetype_names":[],
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.023651,
+    19.191,
+    -99.023651,
+    19.191
+],
+  "geometry": {"coordinates":[-99.023651,19.191],"type":"Point"}
+}
