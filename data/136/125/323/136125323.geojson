@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-102.433197,23.516069,-102.433197,23.516069",
     "geom:latitude":23.516069,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":136125323,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Slips, H\u00f6schen, W\u00e4sche, Getragene Unterw\u00e4sche",
     "wof:parent_id":"85686567",
     "wof:placetype":"venue",

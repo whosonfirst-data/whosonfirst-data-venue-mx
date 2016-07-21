@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-98.265953,21.39019,-98.265953,21.39019",
     "geom:latitude":21.39019,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":236446421,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Hagenbeek En W Avenarius, Dr G E",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

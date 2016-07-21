@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-106.4161,23.203831,-106.4161,23.203831",
     "geom:latitude":23.203831,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":102605045,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Spar",
     "wof:parent_id":"85884133",
     "wof:placetype":"venue",

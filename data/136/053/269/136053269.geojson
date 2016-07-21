@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.750504,26.626369,-99.750504,26.626369",
     "geom:latitude":26.626369,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":136053269,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Edv - Service Harsdorf",
     "wof:parent_id":"85686681",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-100.866539,20.66522,-100.866539,20.66522",
     "geom:latitude":20.66522,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":202841457,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Nefa",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

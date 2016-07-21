@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-88.643646,21.03985,-88.643646,21.03985",
     "geom:latitude":21.03985,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":135454433,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Volksbank Der Rh\u00f6n Eg",
     "wof:parent_id":"85686701",
     "wof:placetype":"venue",

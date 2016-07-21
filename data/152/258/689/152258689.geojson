@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.216698,19.3333,-99.216698,19.3333",
     "geom:latitude":19.3333,
@@ -32,11 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "152258689",
-        85883755,
+        85686515,
         85633293,
         101991115,
         102073741,
-        85686515
+        85883755
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":152258689,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Air Jet S.a.",
     "wof:parent_id":"85883755",
     "wof:placetype":"venue",

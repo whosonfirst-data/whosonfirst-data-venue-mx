@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-96.165367,17.381901,-96.165367,17.381901",
     "geom:latitude":17.381901,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":136093361,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Kreditkarte Ohne Bonit\u00e4tspr\u00fcfung",
     "wof:parent_id":"85686623",
     "wof:placetype":"venue",

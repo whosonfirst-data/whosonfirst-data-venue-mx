@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.102623,19.337889,-99.102623,19.337889",
     "geom:latitude":19.337889,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":169567133,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Arbejdernes Landsbank",
     "wof:parent_id":"85884005",
     "wof:placetype":"venue",

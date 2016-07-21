@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-93.36898,18.002251,-93.36898,18.002251",
     "geom:latitude":18.002251,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":202594453,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Gammie's Catering",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

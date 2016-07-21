@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-102.647873,20.482059,-102.647873,20.482059",
     "geom:latitude":20.482059,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":286856873,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Haarmoden Strauss",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

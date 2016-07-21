@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-104.666702,24.0333,-104.666702,24.0333",
     "geom:latitude":24.0333,
@@ -32,11 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "152768985",
-        85884221,
+        85686573,
         85633293,
         101994335,
         102075159,
-        85686573
+        85884221
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":152768985,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Cherry1499",
     "wof:parent_id":"85884221",
     "wof:placetype":"venue",

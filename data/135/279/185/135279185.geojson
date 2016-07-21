@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-113.420258,27.20269,-113.420258,27.20269",
     "geom:latitude":27.20269,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":135279185,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"J. Groth",
     "wof:parent_id":"85686555",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-100.380348,20.572906,-100.380348,20.572906",
     "geom:latitude":20.572906,
@@ -32,11 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "136101685",
-        85882569,
+        85686641,
         85633293,
         101996369,
         102077111,
-        85686641
+        85882569
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":136101685,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Paint_mex",
     "wof:parent_id":"85882569",
     "wof:placetype":"venue",

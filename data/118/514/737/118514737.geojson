@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.116699,19.483299,-99.116699,19.483299",
     "geom:latitude":19.483299,
@@ -31,11 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "118514737",
-        85883707,
+        85686515,
         85633293,
         101991167,
         102073745,
-        85686515
+        85883707
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":118514737,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Britisch Kurzhaar Katzen",
     "wof:parent_id":"85883707",
     "wof:placetype":"venue",

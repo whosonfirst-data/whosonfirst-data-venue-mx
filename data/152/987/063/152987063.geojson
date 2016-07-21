@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.149773,19.40904,-99.149773,19.40904",
     "geom:latitude":19.40904,
@@ -46,11 +46,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "152987063",
-        85883889,
+        85686515,
         85633293,
         101991151,
         102073739,
-        85686515
+        85883889
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":152987063,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Friaud Georges Et Fils Sa",
     "wof:parent_id":"85883889",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-96.82328,19.96925,-96.82328,19.96925",
     "geom:latitude":19.96925,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":220094803,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Century Bakery",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

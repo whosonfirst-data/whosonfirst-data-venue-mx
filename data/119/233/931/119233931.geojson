@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.116699,19.483299,-99.116699,19.483299",
     "geom:latitude":19.483299,
@@ -33,11 +33,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "119233931",
-        85883707,
+        85686515,
         85633293,
         101991167,
         102073745,
-        85686515
+        85883707
     ],
     "wof:brand_id":"420573855",
     "wof:breaches":[],
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":119233931,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Stadtarchiv",
     "wof:parent_id":"85883707",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-98.256668,16.435909,-98.256668,16.435909",
     "geom:latitude":16.435909,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":102759463,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Karsten Bauer",
     "wof:parent_id":"85686623",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-115.474373,32.65274,-115.474373,32.65274",
     "geom:latitude":32.65274,
@@ -33,11 +33,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "136053625",
-        85883465,
+        85686541,
         85633293,
         101993461,
         102074507,
-        85686541
+        85883465
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":136053625,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Eg Entkernungen Else Gro\u00df",
     "wof:parent_id":"85883465",
     "wof:placetype":"venue",

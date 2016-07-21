@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-100.303078,19.11949,-100.303078,19.11949",
     "geom:latitude":19.11949,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":202563275,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"The House of Grace Trust Inc. - A Home for Pregnant Teens",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

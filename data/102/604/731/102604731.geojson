@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.023651,19.191,-99.023651,19.191",
     "geom:latitude":19.191,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":102604731,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Sex-vermittlung.de",
     "wof:parent_id":"101991185",
     "wof:placetype":"venue",

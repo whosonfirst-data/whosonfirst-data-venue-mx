@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-100.449074,23.108931,-100.449074,23.108931",
     "geom:latitude":23.108931,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":152768949,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Chemie- Und Biologienachpruefungen Fuer Eg",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

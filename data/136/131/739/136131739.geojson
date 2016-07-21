@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-104.78244,24.51985,-104.78244,24.51985",
     "geom:latitude":24.51985,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":136131739,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Suchmaschine - Suchmaschine - Searchengine - Such",
     "wof:parent_id":"101992285",
     "wof:placetype":"venue",

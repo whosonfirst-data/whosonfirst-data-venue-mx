@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.644524,26.271191,-99.644524,26.271191",
     "geom:latitude":26.271191,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":152779831,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Deluxe Battle Hackerz",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

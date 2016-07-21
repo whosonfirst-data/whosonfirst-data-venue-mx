@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.216698,19.3333,-99.216698,19.3333",
     "geom:latitude":19.3333,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":219798469,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Genium Group Bv",
     "wof:parent_id":"85883755",
     "wof:placetype":"venue",

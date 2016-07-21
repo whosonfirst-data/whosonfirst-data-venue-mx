@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-100.142487,26.57646,-100.142487,26.57646",
     "geom:latitude":26.57646,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":136134615,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Teen Shark",
     "wof:parent_id":"85686681",
     "wof:placetype":"venue",

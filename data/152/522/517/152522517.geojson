@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-97.04995,19.64649,-97.04995,19.64649",
     "geom:latitude":19.64649,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":152522517,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Hitachi Koki Imaging Solutions S.a.r.l.",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-102.809929,21.163231,-102.809929,21.163231",
     "geom:latitude":21.163231,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":102741135,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Raisch Garten- Und Landschaftsbau Gmbh",
     "wof:parent_id":"85686603",
     "wof:placetype":"venue",

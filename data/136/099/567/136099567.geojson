@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-103.463028,21.31949,-103.463028,21.31949",
     "geom:latitude":21.31949,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":136099567,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Onlie - Shop, Wassers\u00e4ulen, Acrylprodukte",
     "wof:parent_id":"85686567",
     "wof:placetype":"venue",

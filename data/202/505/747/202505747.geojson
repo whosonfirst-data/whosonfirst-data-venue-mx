@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-98.598389,16.613449,-98.598389,16.613449",
     "geom:latitude":16.613449,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":202505747,
-    "wof:lastmodified":1469133141,
+    "wof:lastmodified":1469142778,
     "wof:name":"Sharon Sjeie - Thames Chiropractic Centre",
     "wof:parent_id":"-1",
     "wof:placetype":"venue",

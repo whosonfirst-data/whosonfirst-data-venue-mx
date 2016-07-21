@@ -12,8 +12,8 @@
     "counts:names_total":"0",
     "counts:names_variant":"0",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
-    "etdf:deprecated":"2016-07-21",
     "geom:area":0.0,
     "geom:bbox":"-99.116699,19.383301,-99.116699,19.383301",
     "geom:latitude":19.383301,
@@ -32,11 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         "152942857",
-        85794007,
+        85686515,
         85633293,
         101991181,
         102073759,
-        85686515
+        85794007
     ],
     "wof:breaches":[],
     "wof:categories":[],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":152942857,
-    "wof:lastmodified":1469133140,
+    "wof:lastmodified":1469142778,
     "wof:name":"Software-download-kostenlos",
     "wof:parent_id":"85794007",
     "wof:placetype":"venue",
