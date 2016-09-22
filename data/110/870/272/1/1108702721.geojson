@@ -1,0 +1,98 @@
+{
+  "id": 1108702721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.0274947,32.5217442,-117.0274947,32.5217442",
+    "geom:latitude":32.521744,
+    "geom:longitude":-117.027495,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Brasil No. 8471 Col. Juarez",
+    "sg:city":"Tijuana, B.C.",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"22040 ",
+    "sg:tags":[
+        "video-games",
+        "blogs",
+        "social-interaction",
+        "reviews",
+        "previews",
+        "news",
+        "event-coverage",
+        "and-video",
+        "spanish-speakers",
+        "hispanics",
+        "latinos",
+        "mexico",
+        "latin-america"
+    ],
+    "sg:website":"http://www.buscacorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993551,
+        102074501,
+        85793955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K5A1vnUh1V1i3HjxzXsZc_32.521744_-117.027495@1308163241"
+    },
+    "wof:country":"MX",
+    "wof:created":1474570877,
+    "wof:geomhash":"89be0e15517aa71ce0a3c25921374d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":85793955,
+            "region_id":85686541,
+            "venue_id":1108702721
+        }
+    ],
+    "wof:id":1108702721,
+    "wof:lastmodified":1474570877,
+    "wof:name":"Busca Corp",
+    "wof:parent_id":85793955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video-games",
+        "blogs",
+        "social-interaction",
+        "reviews",
+        "previews",
+        "news",
+        "event-coverage",
+        "and-video",
+        "spanish-speakers",
+        "hispanics",
+        "latinos",
+        "mexico",
+        "latin-america"
+    ]
+},
+  "bbox": [
+    -117.0274947,
+    32.5217442,
+    -117.0274947,
+    32.5217442
+],
+  "geometry": {"coordinates":[-117.02749470000001,32.5217442],"type":"Point"}
+}

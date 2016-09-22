@@ -1,0 +1,96 @@
+{
+  "id": 1108702723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.1651395,19.4164309,-99.1651395,19.4164309",
+    "geom:latitude":19.416431,
+    "geom:longitude":-99.165139,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "sg:address":"Insurgentes Sur 348 Piso 9  Col. Roma",
+    "sg:city":"Mexico City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"06700 ",
+    "sg:tags":[
+        "video-games",
+        "blogs",
+        "social-interaction",
+        "reviews",
+        "previews",
+        "news",
+        "event-coverage",
+        "and-video",
+        "spanish-speakers",
+        "hispanics",
+        "latinos",
+        "mexico",
+        "latin-america"
+    ],
+    "sg:website":"http://www.buscacorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85883819,
+        102191575,
+        85633293,
+        857683023,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JIwpwVcCbK4bYJgU84a5w_19.416431_-99.165139@1308163241"
+    },
+    "wof:country":"MX",
+    "wof:created":1474570877,
+    "wof:geomhash":"6887b3d49bc84d5b65507a681a93906d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85883819,
+            "region_id":85686515,
+            "venue_id":1108702723
+        }
+    ],
+    "wof:id":1108702723,
+    "wof:lastmodified":1474570877,
+    "wof:name":"Busca Corp",
+    "wof:parent_id":85883819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video-games",
+        "blogs",
+        "social-interaction",
+        "reviews",
+        "previews",
+        "news",
+        "event-coverage",
+        "and-video",
+        "spanish-speakers",
+        "hispanics",
+        "latinos",
+        "mexico",
+        "latin-america"
+    ]
+},
+  "bbox": [
+    -99.1651395,
+    19.4164309,
+    -99.1651395,
+    19.4164309
+],
+  "geometry": {"coordinates":[-99.1651395,19.4164309],"type":"Point"}
+}

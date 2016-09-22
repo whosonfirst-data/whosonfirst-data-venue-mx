@@ -1,0 +1,65 @@
+{
+  "id": 1108702715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.2347962,19.1000075,-98.2347962,19.1000075",
+    "geom:latitude":19.100008,
+    "geom:longitude":-98.234796,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "sg:address":"Autopista Mexico-Puebla 1117",
+    "sg:city":"Puebla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"72014",
+    "sg:tags":[
+        "painting",
+        "warehousing",
+        "services",
+        "logistics",
+        "inspection"
+    ],
+    "sg:website":"http://www.mpi-usa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n6Y8n61eh9oBjnbcD6Ugj_19.100008_-98.234796@1308163241"
+    },
+    "wof:country":"MX",
+    "wof:created":1474570877,
+    "wof:geomhash":"f334268783ab50e9ec7081492eedf4cc",
+    "wof:hierarchy":[],
+    "wof:id":1108702715,
+    "wof:lastmodified":1474570877,
+    "wof:name":"Materials Processing Inc. / Mexico Painting Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "warehousing",
+        "services",
+        "logistics",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -98.2347962,
+    19.1000075,
+    -98.2347962,
+    19.1000075
+],
+  "geometry": {"coordinates":[-98.23479620000001,19.1000075],"type":"Point"}
+}

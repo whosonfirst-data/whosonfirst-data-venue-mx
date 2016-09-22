@@ -1,0 +1,112 @@
+{
+  "id": 1108702717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.3760321,25.6600605,-100.3760321,25.6600605",
+    "geom:latitude":25.660061,
+    "geom:longitude":-100.376032,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rio de la plata 300",
+    "sg:city":"San Pedro Garza Garcia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"66220",
+    "sg:tags":[
+        "mobile",
+        "sms",
+        "mms",
+        "wap",
+        "payment",
+        "billing",
+        "mobile-advertising",
+        "mobile-marketing",
+        "mobile-internet",
+        "mobile-banking",
+        "mobile-messaging",
+        "wireless",
+        "gprs",
+        "umts",
+        "gateway",
+        "roaming",
+        "games",
+        "ringtones",
+        "mp3",
+        "music"
+    ],
+    "sg:website":"http://www.binbit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85686681,
+        102191575,
+        85633293,
+        102000745,
+        102078689,
+        85883873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yd8XZQrsGiXiakiUlBI4B_25.660061_-100.376032@1308163241"
+    },
+    "wof:country":"MX",
+    "wof:created":1474570877,
+    "wof:geomhash":"34137780fd17087160e1fc0c3df9a17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078689,
+            "locality_id":102000745,
+            "neighbourhood_id":85883873,
+            "region_id":85686681,
+            "venue_id":1108702717
+        }
+    ],
+    "wof:id":1108702717,
+    "wof:lastmodified":1474570877,
+    "wof:name":"Binbit",
+    "wof:parent_id":85883873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "sms",
+        "mms",
+        "wap",
+        "payment",
+        "billing",
+        "mobile-advertising",
+        "mobile-marketing",
+        "mobile-internet",
+        "mobile-banking",
+        "mobile-messaging",
+        "wireless",
+        "gprs",
+        "umts",
+        "gateway",
+        "roaming",
+        "games",
+        "ringtones",
+        "mp3",
+        "music"
+    ]
+},
+  "bbox": [
+    -100.3760321,
+    25.6600605,
+    -100.3760321,
+    25.6600605
+],
+  "geometry": {"coordinates":[-100.3760321,25.6600605],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108702713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.3089232,25.6714495,-100.3089232,25.6714495",
+    "geom:latitude":25.67145,
+    "geom:longitude":-100.308923,
+    "iso:country":"MX",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vasconcelos 1559 L-14 Pte. Col. Mirasierra",
+    "sg:city":"San Pedro Garza Garc\u00eda",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"66240",
+    "sg:tags":[
+        "restaurants",
+        "directory",
+        "monterrey",
+        "mexico",
+        "dinning",
+        "take-out",
+        "food"
+    ],
+    "sg:website":"http://www.quecomer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85686681,
+        102191575,
+        85633293,
+        102000679,
+        102078687,
+        85883997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AArqtw88Guao1J9Kc2BeX_25.671450_-100.308923@1308163241"
+    },
+    "wof:country":"MX",
+    "wof:created":1474570877,
+    "wof:geomhash":"e599821e40b2ac55bd9b8e7f090d7187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078687,
+            "locality_id":102000679,
+            "neighbourhood_id":85883997,
+            "region_id":85686681,
+            "venue_id":1108702713
+        }
+    ],
+    "wof:id":1108702713,
+    "wof:lastmodified":1474570877,
+    "wof:name":"Qu\u00e9 Comer",
+    "wof:parent_id":85883997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-mx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurants",
+        "directory",
+        "monterrey",
+        "mexico",
+        "dinning",
+        "take-out",
+        "food"
+    ]
+},
+  "bbox": [
+    -100.3089232,
+    25.6714495,
+    -100.3089232,
+    25.6714495
+],
+  "geometry": {"coordinates":[-100.3089232,25.6714495],"type":"Point"}
+}
