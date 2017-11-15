@@ -15,12 +15,14 @@
     "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.595428,19.077789,-99.595428,19.077789",
     "geom:latitude":19.077789,
     "geom:longitude":-99.595428,
     "geom:type":"Point",
     "iso:country":"MX",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
     "sg:address":"Postfach 1120",
     "sg:categories":[],
@@ -36,7 +38,7 @@
         85633293,
         85686527
     ],
-    "wof:brand_id":"420575489",
+    "wof:brand_id":420575489,
     "wof:breaches":[],
     "wof:categories":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
         "sg:id"
     ],
     "wof:country":"MX",
-    "wof:geomhash":"f273dd9476338670318da55fb57aa6e0",
+    "wof:geomhash":"f610d3670cfb8f5ef9a99905c0469192",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":119200415,
-    "wof:lastmodified":1469142778,
+    "wof:lastmodified":1510602599,
     "wof:name":"Gemeindearchiv",
     "wof:parent_id":"85686527",
     "wof:placetype":"venue",

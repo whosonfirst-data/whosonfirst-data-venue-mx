@@ -15,12 +15,14 @@
     "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.175346,19.305832,-99.175346,19.305832",
     "geom:latitude":19.305832,
     "geom:longitude":-99.175346,
     "geom:type":"Point",
     "iso:country":"MX",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
     "sg:address":"Sct. J\u00f8rgens Park 34",
     "sg:categories":[
@@ -52,6 +54,7 @@
         102073753,
         85884329
     ],
+    "wof:brand_id":1125153067,
     "wof:breaches":[],
     "wof:categories":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         "sg:id"
     ],
     "wof:country":"MX",
-    "wof:geomhash":"844a5d01035bab1d4715b208d2341757",
+    "wof:geomhash":"9ca2a72929a447e342c512149fdcc3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":169568375,
-    "wof:lastmodified":1469142778,
+    "wof:lastmodified":1510613476,
     "wof:name":"BG Bank",
     "wof:parent_id":"85884329",
     "wof:placetype":"venue",
