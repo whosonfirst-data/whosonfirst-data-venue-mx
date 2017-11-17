@@ -15,12 +15,14 @@
     "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.204849,19.50914,-99.204849,19.50914",
     "geom:latitude":19.50914,
     "geom:longitude":-99.204849,
     "geom:type":"Point",
     "iso:country":"MX",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
     "sg:address":"Jagtvej 213-215",
     "sg:categories":[],
@@ -41,6 +43,7 @@
         102073735,
         85884463
     ],
+    "wof:brand_id":1125158109,
     "wof:breaches":[],
     "wof:categories":[],
     "wof:concordances":{
@@ -50,7 +53,7 @@
         "sg:id"
     ],
     "wof:country":"MX",
-    "wof:geomhash":"848fbf9c2c0c38eb654cbc0a7384fc22",
+    "wof:geomhash":"68a1f548c8806125bec42d4c8d009ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":169592667,
-    "wof:lastmodified":1469142778,
+    "wof:lastmodified":1510858148,
     "wof:name":"Hydro Texaco",
     "wof:parent_id":"85884463",
     "wof:placetype":"venue",
