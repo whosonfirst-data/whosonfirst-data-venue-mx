@@ -15,12 +15,14 @@
     "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.162613,16.12113,-97.162613,16.12113",
     "geom:latitude":16.12113,
     "geom:longitude":-97.162613,
     "geom:type":"Point",
     "iso:country":"MX",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
     "sg:address":"Falkensteiner Str. 31",
     "sg:categories":[],
@@ -36,6 +38,7 @@
         85633293,
         85686623
     ],
+    "wof:brand_id":420574247,
     "wof:breaches":[],
     "wof:categories":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
         "sg:id"
     ],
     "wof:country":"MX",
-    "wof:geomhash":"66f613bc37fced47a568c4d59d9489d3",
+    "wof:geomhash":"2ca6a6a9685a4a6b29d245bc8afb92c0",
     "wof:hierarchy":[
         {
             "country_id":85633293,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":135455829,
-    "wof:lastmodified":1469142778,
+    "wof:lastmodified":1511324398,
     "wof:name":"Volksbank Eg",
     "wof:parent_id":"85686623",
     "wof:placetype":"venue",

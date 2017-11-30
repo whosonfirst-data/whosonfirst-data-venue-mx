@@ -15,12 +15,14 @@
     "edtf:deprecated":"2016-07-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.4161,23.203831,-106.4161,23.203831",
     "geom:latitude":23.203831,
     "geom:longitude":-106.4161,
     "geom:type":"Point",
     "iso:country":"MX",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"deprecated as part of SG geocoder cleanup (201607)",
     "sg:categories":[],
     "sg:city":"tehhtssehsh",
@@ -35,7 +37,7 @@
         101993641,
         85884133
     ],
-    "wof:brand_id":"420574213",
+    "wof:brand_id":420574213,
     "wof:breaches":[],
     "wof:categories":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
         "sg:id"
     ],
     "wof:country":"MX",
-    "wof:geomhash":"0ad1e44a8be3206d7ef3857d4bf5757c",
+    "wof:geomhash":"fbc63f4d596a7f4b4521017b4ced6110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":102605045,
-    "wof:lastmodified":1469142778,
+    "wof:lastmodified":1511323571,
     "wof:name":"Spar",
     "wof:parent_id":"85884133",
     "wof:placetype":"venue",
